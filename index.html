@@ -29,14 +29,14 @@
 		<link rel="stylesheet" href="./smui-dark.css" media="screen and (prefers-color-scheme: dark)" />
 
 		<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="/_app/immutable/start-32744ce0.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/index-06b9bfde.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/singletons-886c71d9.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/i18n-7acc434f.js">
+		<link rel="modulepreload" href="./_app/immutable/start-32744ce0.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index-06b9bfde.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-886c71d9.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/i18n-7acc434f.js">
 		<script>
 			if ('serviceWorker' in navigator) {
 				addEventListener('load', function () {
-					navigator.serviceWorker.register('/service-worker.js');
+					navigator.serviceWorker.register('./service-worker.js');
 				});
 			}
 		</script>
@@ -44,7 +44,7 @@
 	<body>
 		<div id="svelte">
 		<script type="module" data-sveltekit-hydrate="45h">
-			import { start } from "/_app/immutable/start-32744ce0.js";
+			import { start } from "./_app/immutable/start-32744ce0.js";
 
 			start({
 				env: {},
