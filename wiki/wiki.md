@@ -1,9 +1,20 @@
-wiki &
-
-wikilist:
-
-
 [Welcome to the librescore wiki!](https://github.com/barionleg/librescore/wiki/Home/)
+
+https://librescore.github.io/
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c37cf4bd-7dad-4961-9e5b-96715b30f6ad" />
+
+
+Dygnet dedikeras till [Lexo (Alexander) Toradze](https://www.facebook.com/p/Alexander-Toradze-100028611113418/), vår familemedlem från [ComposersUnionGeorgien*](https://web.archive.org/web/20250907220631/https://www.composersunion.ge/?lang=eng) och jag drömt att trffa honom, pga mitt PAPpA berättar so mycket om deras vojage till 
+
+*[ComposersUnionGeorgien](https://github.com/barionleg/Composunarc/wiki): [webbsidan](https://www.composersunion.ge/?lang=eng) finns tillgängligt på nättet! då värför [webbarchivet](https://web.archive.org) eller liknande typ $₽♾ [PERMA](https://perma.cc/MF7F-FDB3)? för att då kan man se jämnt oavsett vem gripper Georgien vid dygnet eller är det frei!  
+
+ვისაც გახსოვთ ესერო [$₽♾ ](https://open.spotify.com) სადღეისოდ [სროტიფუჩი](https://open.spotify.com) ანუ [SPOTiFY.CიM](https://www.spotify.com/fr/free/) 
+
+Д'вÅРДАвеЛиДЗЭ e 3d I Lёv 🍃 A drAв (draw) 
+
+
+BULGARIEN, MONTE-CARLO och all Länder de passat med bilen i 1967. Och det liten kid såg westerworld med eget ögor och planerade och fly sedan! Och det samma planerat jag; men med vänner! Tyvärr idag fick jag att veta att han pass till andra velt! Good Luck Lexo, kanske vi ses på Ross 128b, eller någon annanstans! Gutes fart! Och vie jag beräknad hier, 10 ljus ååret kan vara vanliga 10 år! 
 
 ⚠ OBS! mixed ძialects are part of my started experiment in Swedish KiNgdOm to remembær on d'bargenetiskyt stages as I 🌾 sad, that my roots & innre & yttre circles genererad, för att sedan 1932 var speciella ckullturella grouPpeR skickat till Georgien, för att uttförra det schöna län till det ETNOGRAFISKA MuRSSEET! Värför 2 s efter R? för att allt enad språk följare relaterad till Physic, Chemie, ComPoSARC, kodbook osv vie det planerade mina GrandParants, och vilka jag respekterar jätte mycket och är jätte tacksamt för det d'bargenkod de samlatt inom mixad farmars & LÄNSkulturella cirklar, de skappade speciellt, för att restavrera skaddat genetyska fondet och att försöka dra till liver mördade ARTZ, ARTER, MedicinVÅRd osv ... 
 
@@ -29,4 +40,13 @@ https://librescore.github.io/
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/91b6d84d-9130-46ca-a4b7-d06e4a088c19" />
 
+
+
+
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f5033c41-2c8c-46f3-b3da-2318c1566ab5" />
+
+
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9a27b2ed-3b67-497c-ae99-a5e636e6f1fa" />
 
