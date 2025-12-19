@@ -24,6 +24,9 @@ click on images to arrive to task, there enought feel 110 at begining
 
 So, when you will see how I remembæred (or find out, like others say) [Pi_d'hARmoNiclick 3,142857142857143](https://barionleg.github.io/3.142857142857143/) 
 
-you will understand, that [Chopin](https://en.wikipedia.org/wiki/Frédéric_Chopin) & [Mozart](https://sv.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) [Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) schould be Proud of me irakli bARdavelid3e kodbook programer (modern writer) :)
+you will understand, that [Chopin](https://en.wikipedia.org/wiki/Frédéric_Chopin) & [Mozart](https://sv.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) [Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) schould be Proud of me irakli bARdavelid3e kodbook programer (modern writer) :) because at evening I listened first time in MusicCore that Harmony and it 
+sounds kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
 
 
