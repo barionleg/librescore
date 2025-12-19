@@ -1,4 +1,4 @@
-[Welcome to the  wiki!](https://github.com/aibolem/webmscore/wiki/Home/)
+[Welcome to the webmscore wiki!](https://github.com/aibolem/webmscore/wiki/Home/)
 
 https://aibolem.github.io/webmscore/web-example/index.html
 
